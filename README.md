@@ -205,6 +205,12 @@ The dashboard provides visual analysis of:
 
 Interactive filters are available for **Subscription Status, Gender, Category, and Shipping Type**.
 
+
+
+![Customer Behavior Dashboard](customer_behavior_dashboard_image.jpeg)
+
+
+
 ---
 
 ## 🔎 Key Insights
