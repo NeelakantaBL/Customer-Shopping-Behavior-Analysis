@@ -1,5 +1,5 @@
 # Customer_Shopping_Behavior_Analysis
-Data analytics project showcasing customer behavior analysis using python, MySQL and Power BIAbsolutely — here’s a clean, recruiter-friendly README you can directly use in your GitHub repository.
+Data analytics project showcasing customer behavior analysis using python, MySQL and Power BI.
 
 # 📊 Data Analytics Project
 
