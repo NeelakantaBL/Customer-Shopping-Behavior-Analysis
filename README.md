@@ -441,26 +441,6 @@ The original project requirements specifically call for Python data preparation,
 
 ---
 
-## 📌 Resume Project Description
-
-**Customer Shopping Behavior Analysis | Python, MySQL, Power BI**
-
-* Analyzed **3,900 customer transactions across 18 features** using Python to perform EDA, data cleaning, missing-value treatment, and feature engineering.
-* Used **MySQL and advanced SQL queries** including CTEs, subqueries, conditional aggregation, and window functions to analyze customer segments, revenue, products, discounts, and subscription behavior.
-* Built an interactive **Power BI dashboard** with KPIs, category analysis, customer segmentation, subscription insights, and age-group revenue analysis to support data-driven business recommendations.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-Aspiring Data Analyst | Python | SQL | Power BI
-
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/)
-
----
-
 ## ⭐ Project Outcome
 
 This project demonstrates an end-to-end data analytics workflow:
